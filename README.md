@@ -4,4 +4,4 @@
 - and I have been studying the english.
 - Glad to meet you.
 
-[![def4root's GitHub stats](https://github-readme-stats.vercel.app/api?username=def4root&show_icons=true&theme=dark)](https://def4root.com/)
+[![def4root's GitHub stats](https://github-readme-stats.vercel.app/api?username=def4root&show_icons=true&theme=dark)](javascript:void(0))
